@@ -1,5 +1,8 @@
 ## Ex-01-Linux-Commands
-
+``
+NAME:VARSHA SARATHY
+REG NO:212223040233
+``
 ## Aim:
 To study the execution of various Linux operating system commands.
 
